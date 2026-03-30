@@ -1,0 +1,4 @@
+# -- RERUN: 2 failing scenarios during last test run.
+features/cart.feature:16
+features/login.feature:45
+
